@@ -25,7 +25,7 @@ Ensure you have the following installed on your machine:
 
 1. Setting up the project:
     ```bash
-   git clone https://github.com/wizzzdev/payment-dashboard.git
+   git clone https://github.com/wizzzdev/transactions-dashboard.git
    cd payment-dashboard
    npm i
    npm start
